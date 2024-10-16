@@ -1,10 +1,9 @@
-GET http://localhost:5000/users
+GET sql12.freesqldatabase.com
+###
+GET sql12.freesqldatabase.com
 
 ###
-GET http://localhost:5000/users/1
-
-###
-POST http://localhost:5000/users
+POST sql12.freesqldatabase.com
 Content-Type: application/json
 
 {
